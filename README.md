@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Jr. Software Engineer (frontend) at [GetWeb Inc LTD](https://www.getwebinc.com/).
 - 👯 I’m looking to collaborate on MERN STACK DEVELOPER
 - 💬 Ask me about anything.
-- 💬 You can get in touch with me by email at [muhammad.ashiqure@gmail.com](mailto:muhammad.ashiqure@gmail.com) and [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/).
+- 💬 You can get in touch with me by email at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.ashiqure@gmail.com) and [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadashiqurrahman/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hung myself with JavaScript. So i am in the middle of dying.
 
@@ -38,4 +38,4 @@ Featured Projects: [Bengal Software](https://www.bengalsoftware.com/)
 <br/>
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/) for a more detailed description of my work experience, education and certification.
+Please find me on [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadashiqurrahman/) for a more detailed description of my work experience, education and certification.
