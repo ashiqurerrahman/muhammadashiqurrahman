@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Jr. Software Engineer (frontend) at [GetWeb Inc LTD](https://www.getwebinc.com/).
+- 🔭 I’m currently working on Software Engineer (frontend) at [Opedia Technologies Limited](https://opediatech.com/).
 - 👯 I’m looking to collaborate on MERN STACK DEVELOPER
 - 💬 Ask me about anything.
 - 💬 You can get in touch with me by email at [muhammad.ashiqure@gmail.com](mailto:muhammad.ashiqure@gmail.com) and [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/).
@@ -11,10 +11,18 @@
 
 In the overview below you will find my most recent work experience:
 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/opedia.jpg?raw=true"/>](https://opediatech.com/)
+
+**Software Engineer (Frontend)** \
+[**Opedia Technologies Limited**](Opedia Technologies Limited) • Full-time (Aug 2023 - Present) \
+Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `TailwindCSS`, `SCSS/LESS`, `ReactJS`, `NextJS`, `Git`, `GitHub`, `Trello`, `CI/CD`, \
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/getweb.jpg?raw=true"/>](https://www.getwebinc.com/)
 
 **Jr. Software Engineer (Frontend)** \
-[**GetWeb Inc LTD**](https://www.getwebinc.com/) • Full-time (Jun 2022 - Present) \
+[**GetWeb Inc LTD**](https://www.getwebinc.com/) • Full-time (Jun 2022 - Jul 2023) \
 Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `TailwindCSS`, `jQuery`, `SCSS`, `React`, `NextJS`, `Git`, `GitHub`, `Trello`, `CI/CD`, `WordPress (Elementor)`, `WebFlow`, \
 Featured Projects: [Daniel Table](https://muhammadashiqurrahman.github.io/daniel-table/)
 <br/>
