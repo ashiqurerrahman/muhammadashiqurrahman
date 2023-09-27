@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Software Engineer (frontend) at [Opedia Technologies Limited](https://opediatech.com/).
+- 🔭 I’m currently working as a Software Engineer (frontend) at [Opedia Technologies Limited](https://opediatech.com/).
 - 👯 I’m looking to collaborate on MERN STACK DEVELOPER
 - 💬 Ask me about anything.
 - 💬 You can get in touch with me by email at [muhammad.ashiqure@gmail.com](mailto:muhammad.ashiqure@gmail.com) and [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hung myself with JavaScript. So i am in the middle of dying.
+- ⚡ Fun fact: I hung myself with JavaScript. So I am in the middle of dying.
 
 ### Work Experience
 
@@ -30,7 +30,7 @@ Featured Projects: [Daniel Table](https://muhammadashiqurrahman.github.io/daniel
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/intelwink.png?raw=true"/>](https://intelwink.com/)
 
-**Project Manger** \
+**Project Manager** \
 [**IntelWink**](https://intelwink.com/) • Freelance Project Manager \
 Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `TailwindCSS`, `jQuery`, `SCSS`, `React`, `NextJS`, `Git`, `GitHub`, `Trello`, `CI/CD` \
 <br/>
