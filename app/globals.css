@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .section_padding{
+        @apply py-[100px]
+    }
+}

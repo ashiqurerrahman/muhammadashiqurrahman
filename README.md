@@ -1,49 +1,36 @@
-### Hi there 👋
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-- 🔭 I’m currently working on Software Engineer (frontend) at [Opedia Technologies Limited](https://opediatech.com/).
-- 👯 I’m looking to collaborate on MERN STACK DEVELOPER
-- 💬 Ask me about anything.
-- 💬 You can get in touch with me by email at [muhammad.ashiqure@gmail.com](mailto:muhammad.ashiqure@gmail.com) and [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hung myself with JavaScript. So i am in the middle of dying.
+## Getting Started
 
-### Work Experience
+First, run the development server:
 
-In the overview below you will find my most recent work experience:
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/opedia.jpg?raw=true"/>](https://opediatech.com/)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**Software Engineer (Frontend)** \
-[**Opedia Technologies Limited**](Opedia Technologies Limited) • Full-time (Aug 2023 - Present) \
-Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `TailwindCSS`, `SCSS/LESS`, `ReactJS`, `NextJS`, `Git`, `GitHub`, `Trello`, `CI/CD`, \
-<br/>
-<br/>
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/getweb.jpg?raw=true"/>](https://www.getwebinc.com/)
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-**Jr. Software Engineer (Frontend)** \
-[**GetWeb Inc LTD**](https://www.getwebinc.com/) • Full-time (Jun 2022 - Jul 2023) \
-Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `TailwindCSS`, `jQuery`, `SCSS`, `React`, `NextJS`, `Git`, `GitHub`, `Trello`, `CI/CD`, `WordPress (Elementor)`, `WebFlow`, \
-Featured Projects: [Daniel Table](https://muhammadashiqurrahman.github.io/daniel-table/)
-<br/>
-<br/>
+## Learn More
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/intelwink.png?raw=true"/>](https://intelwink.com/)
+To learn more about Next.js, take a look at the following resources:
 
-**Project Manger** \
-[**IntelWink**](https://intelwink.com/) • Freelance Project Manager \
-Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `TailwindCSS`, `jQuery`, `SCSS`, `React`, `NextJS`, `Git`, `GitHub`, `Trello`, `CI/CD` \
-<br/>
-<br/>
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/muhammadashiqurrahman/muhammadashiqurrahman/blob/main/images/bengalsoft.png?raw=true"/>](https://www.bengalsoftware.com/)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-**Software Engineer (Frontend)** \
-[**Bengal Software**](https://www.bengalsoftware.com/) • Intern (Jan 2022 - April 2022) \
-Languages & Technologies: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `jQuery`, `SCSS`, `React` \
-Featured Projects: [Bengal Software](https://www.bengalsoftware.com/)
+## Deploy on Vercel
 
-<br/>
-<br/>
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/) for a more detailed description of my work experience, education and certification.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
